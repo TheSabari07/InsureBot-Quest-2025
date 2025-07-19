@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is life insurance?",
+    "answer": "Life insurance is a contract between you and an insurance company that provides a death benefit to your beneficiaries when you pass away. It helps protect your family's financial future by providing money to cover expenses like mortgage payments, education costs, and daily living expenses.",
+    "category": "life_insurance",
+    "keywords": ["life insurance", "death benefit", "beneficiaries", "financial protection"]
+  },
+  {
+    "question": "How much life insurance do I need?",
+    "answer": "The amount of life insurance you need depends on several factors including your income, debts, number of dependents, and future financial goals. A general rule of thumb is 10-15 times your annual income, but it's best to consult with an insurance professional for personalized advice.",
+    "category": "life_insurance",
+    "keywords": ["coverage amount", "income", "dependents", "financial planning"]
+  },
+  {
+    "question": "What is term life insurance?",
+    "answer": "Term life insurance provides coverage for a specific period, typically 10, 20, or 30 years. It offers the most affordable premiums and pays a death benefit only if you die during the term. If you outlive the term, the policy expires with no cash value.",
+    "category": "life_insurance",
+    "keywords": ["term life", "coverage period", "premiums", "death benefit"]
+  },
+  {
+    "question": "What is whole life insurance?",
+    "answer": "Whole life insurance provides lifelong coverage and includes a cash value component that grows over time. Premiums remain level throughout your life, and you can borrow against the cash value or surrender the policy for its cash value.",
+    "category": "life_insurance",
+    "keywords": ["whole life", "cash value", "lifelong coverage", "premiums"]
+  },
+  {
+    "question": "How do I file a life insurance claim?",
+    "answer": "To file a life insurance claim, contact the insurance company as soon as possible. You'll need to provide the policy number, death certificate, and any other required documentation. The company will guide you through the process and typically pays claims within 30-60 days.",
+    "category": "claims",
+    "keywords": ["claim filing", "death certificate", "policy number", "beneficiaries"]
+  },
+  {
+    "question": "What factors affect life insurance premiums?",
+    "answer": "Life insurance premiums are based on factors including your age, health, gender, lifestyle (smoking, occupation), family medical history, and the amount and type of coverage you choose. Younger, healthier individuals typically pay lower premiums.",
+    "category": "premiums",
+    "keywords": ["premiums", "age", "health", "lifestyle", "coverage"]
+  },
+  {
+    "question": "Can I change my life insurance beneficiary?",
+    "answer": "Yes, you can change your life insurance beneficiary at any time by contacting your insurance company and completing a beneficiary change form. You can name multiple beneficiaries and specify what percentage each should receive.",
+    "category": "beneficiaries",
+    "keywords": ["beneficiary", "change", "multiple beneficiaries", "percentage"]
+  },
+  {
+    "question": "What is the difference between term and permanent life insurance?",
+    "answer": "Term life insurance provides coverage for a specific period and is typically more affordable. Permanent life insurance (like whole life) provides lifelong coverage and includes a cash value component that grows over time, but has higher premiums.",
+    "category": "comparison",
+    "keywords": ["term", "permanent", "coverage period", "cash value", "premiums"]
+  },
+  {
+    "question": "How long does it take to get approved for life insurance?",
+    "answer": "The approval process typically takes 2-6 weeks, depending on the type of policy and whether a medical exam is required. Simplified issue policies may be approved in days, while policies requiring medical underwriting take longer.",
+    "category": "application",
+    "keywords": ["approval time", "medical exam", "underwriting", "simplified issue"]
+  },
+  {
+    "question": "What happens if I miss a premium payment?",
+    "answer": "Most life insurance policies have a grace period (usually 30 days) during which you can make a late payment without losing coverage. If you don't pay within the grace period, your policy may lapse. Contact your insurance company immediately if you're having trouble making payments.",
+    "category": "payments",
+    "keywords": ["premium payment", "grace period", "lapse", "coverage"]
+  }
+] 
