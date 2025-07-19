@@ -1,0 +1,39 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.main-content {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.chat-container {
+  width: 100%;
+  max-width: 800px;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 20px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  height: 80vh;
+}
+
+@media (max-width: 768px) {
+  .chat-container {
+    height: 90vh;
+    margin: 10px;
+    border-radius: 15px;
+  }
+  
+  .main-content {
+    padding: 10px;
+  }
+} 
